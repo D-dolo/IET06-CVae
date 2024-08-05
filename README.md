@@ -20,3 +20,16 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 We thank all contributors and supporters of this project. Special thanks to the authors of the feature extraction methods and the developers of the libraries used in this project.
 
+## Team Members
+
+<img align="left" height="50px" width="50px" src="https://avatars.githubusercontent.com/u/115020785?v=4" alt="Avatar">
+<a href="https://github.com/D-dolo" style="margin-left: 10px; line-height: 50px; text-decoration: none;">
+    <b>Giancarlo Tedesco</b>
+</a>
+<br>
+<br>
+<br>
+<img align="left" height="50px" width="50px" src="https://avatars.githubusercontent.com/u/6324754?v=4" alt="Avatar">
+<a href="https://github.com/SlimShadys" style="margin-left: 10px; line-height: 50px; text-decoration: none;">
+    <b>Gianmarco Scarano</b>
+</a>

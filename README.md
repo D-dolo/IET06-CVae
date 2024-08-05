@@ -16,7 +16,7 @@ The CVAE model, combined with our feature extraction techniques, achieved an acc
 We welcome contributions to this project. If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 We thank all contributors and supporters of this project. Special thanks to the authors of the feature extraction methods and the developers of the libraries used in this project.

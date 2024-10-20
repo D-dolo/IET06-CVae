@@ -2,7 +2,7 @@
 This repository contains the code and dataset for our project on using machine learning for the classification of EEG signals. Our work focuses on leveraging Conditional Variational Autoencoders (CVAEs) along with advanced feature extraction techniques to accurately classify EEG signals for different health conditions.
 
 ## Overview
-Machine learning (ML) offers great potential in healthcare, especially in the analysis of complex physiological signals like electroencephalography (EEG). EEG recordings hold valuable insights into neurological function and can aid in diagnosing various conditions. In this work, we explore the use of a Conditional Variational Autoencoder (CVAE) coupled with advanced feature extraction techniques for accurate classification of EEG signals.
+Machine learning (ML) offers great potential in healthcare, especially in the analysis of complex physiological signals like electroencephalography (EEG). EEG recordings hold valuable insights into neurological function and can aid in diagnosing various conditions. In this work, we explore the use of a Conditional Variational Autoencoder (cVAE) coupled with advanced feature extraction techniques for accurate classification of EEG signals.
 
 Our study involved collecting an EEG dataset and systematically applying diverse feature extraction methods. These methods included Short-time Fourier Transform, Hurst Exponent, Detrended Fluctuation Analysis (DFA), Correlation Dimension (CD), Kolmogorov-Sinai Entropy [Non-Linear Features], and their combinations, which distill distinct characteristics from the EEG signals. The CVAE model was then trained on the extracted features, leveraging the conditional input to learn representations specific to different health conditions.
 
